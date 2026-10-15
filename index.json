@@ -1,0 +1,11 @@
+{
+  "org": "jupyter-server",
+  "repo": "synchronizer",
+  "versions": [
+    {
+      "commit": "faa25ac7ba7683021a9026ac9e0512deadd837c8",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:06:29.291253+00:00"
+    }
+  ]
+}
